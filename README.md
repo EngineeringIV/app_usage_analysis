@@ -1,7 +1,7 @@
 # app_usage_analysis
  Analyze app usage and categorize apps based on app and user information
  
- ## Analysis Motivation
+ ## Motivation
  For this project, I was interested in grouping apps and users based on both app information (name and overview) and user usage information (daily usage pattern). Some questions that I had in mind are:
  1. What are some of the gaming apps in the app list
  2. What are some groups of users that share common behaviors
